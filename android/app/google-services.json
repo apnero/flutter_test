@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "181375623347",
+    "firebase_url": "https://fight-tactix.firebaseio.com",
+    "project_id": "fight-tactix"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181375623347:android:49fe489faca05431",
+        "android_client_info": {
+          "package_name": "com.yourcompany.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181375623347-dsr75lkc9cpfm66hcpn6jr5f7dt6jaeg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "181375623347-dsr75lkc9cpfm66hcpn6jr5f7dt6jaeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelljkEp9dTf7cOtsV_2021IxbOW8a2hk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
